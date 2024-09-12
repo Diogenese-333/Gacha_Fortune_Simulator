@@ -1,3 +1,3 @@
 # Gacha_Fortune_Simulator
 Software Engineering Mecha,Junior year
-Hello World
+My name is Kanisorn S.
